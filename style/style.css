@@ -1,0 +1,39 @@
+body{
+     background-image: url('../image/brick_4.jpg');
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: ghostwhite;
+    
+    }
+.container-fluid{
+    width:95%;
+}
+header{
+    width:100%;
+    color:white;
+    margin:auto;  
+    
+    }
+
+#profile{
+    width:25%;
+    float:left;
+    display: inline-block;
+    }
+u{
+    color:red;
+}
+figcaption > h4 {
+    margin-top: -6px;
+}
+hr{
+    width: 93%;
+    color:ghostwhite;
+}
+.body_section > h3{
+    font-size: 20px;
+}
+i{
+    font-family:  monospace !important;
+}
